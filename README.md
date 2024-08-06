@@ -10,11 +10,7 @@ To do this, BoomBikes aims to understand the post-quarantine demand for shared b
 
 Need to model the demand for shared bikes using the provided variables. This model will help management understand how demand varies with different features, allowing them to adjust their business strategy to meet customer needs and explore new market dynamics.
 
-# General Information
-
-A US bike-sharing provider BoomBikes has recently suffered considerable dips in their revenues due to the ongoing Corona pandemic. The company is finding it very difficult to sustain in the current market scenario. So, it has decided to come up with a mindful business plan to be able to accelerate its revenue as soon as the ongoing lockdown comes to an end, and the economy restores to a healthy state.
-
-### The company wants to know:
+## The company wants to know:
 
 - Which variables are significant in predicting the demand for shared bikes.
 - How well those variables describe the bike demands
